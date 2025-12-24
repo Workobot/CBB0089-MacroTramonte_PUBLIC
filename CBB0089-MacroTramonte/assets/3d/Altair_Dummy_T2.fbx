@@ -6,15 +6,15 @@ FBXHeaderExtension:  {
 	FBXVersion: 7700
 	CreationTimeStamp:  {
 		Version: 1000
-		Year: 2025
-		Month: 9
-		Day: 24
-		Hour: 12
-		Minute: 11
-		Second: 31
-		Millisecond: 830
+		Year: 2024
+		Month: 7
+		Day: 16
+		Hour: 8
+		Minute: 38
+		Second: 28
+		Millisecond: 233
 	}
-	Creator: "FBX SDK/FBX Plugins version 2020.3.4"
+	Creator: "FBX SDK/FBX Plugins version 2020.3.2"
 	OtherFlags:  {
 		TCDefinition: 127
 	}
@@ -31,16 +31,18 @@ FBXHeaderExtension:  {
 			Comment: ""
 		}
 		Properties70:  {
+			P: "DocumentUrl", "KString", "Url", "", "C:\Workobot\Proyects\WKT001-PropsLibrary_HD\PropsLibrary_HD\Assets\0kp0w3ab_Altair_Dummy_T2.fbx"
+			P: "SrcDocumentUrl", "KString", "Url", "", "C:\Workobot\Proyects\WKT001-PropsLibrary_HD\PropsLibrary_HD\Assets\0kp0w3ab_Altair_Dummy_T2.fbx"
 			P: "Original", "Compound", "", ""
 			P: "Original|ApplicationVendor", "KString", "", "", ""
 			P: "Original|ApplicationName", "KString", "", "", "Unity FBX Exporter"
-			P: "Original|ApplicationVersion", "KString", "", "", "5.1.3"
+			P: "Original|ApplicationVersion", "KString", "", "", "4.2.1"
 			P: "Original|DateTime_GMT", "DateTime", "", "", ""
 			P: "Original|FileName", "KString", "", "", ""
 			P: "LastSaved", "Compound", "", ""
 			P: "LastSaved|ApplicationVendor", "KString", "", "", ""
 			P: "LastSaved|ApplicationName", "KString", "", "", "Unity FBX Exporter"
-			P: "LastSaved|ApplicationVersion", "KString", "", "", "5.1.3"
+			P: "LastSaved|ApplicationVersion", "KString", "", "", "4.2.1"
 			P: "LastSaved|DateTime_GMT", "DateTime", "", "", ""
 		}
 	}
@@ -76,7 +78,7 @@ GlobalSettings:  {
 
 Documents:  {
 	Count: 1
-	Document: 2627369560048, "Scene", "Scene" {
+	Document: 2484092235568, "Scene", "Scene" {
 		Properties70:  {
 			P: "SourceObject", "object", "", ""
 			P: "ActiveAnimStackName", "KString", "", "", ""
@@ -96,12 +98,12 @@ References:  {
 
 Definitions:  {
 	Version: 100
-	Count: 22
+	Count: 28
 	ObjectType: "GlobalSettings" {
 		Count: 1
 	}
 	ObjectType: "Model" {
-		Count: 19
+		Count: 25
 		PropertyTemplate: "FbxNode" {
 			Properties70:  {
 				P: "QuaternionInterpolate", "enum", "", "",0
@@ -221,7 +223,7 @@ Definitions:  {
 ;------------------------------------------------------------------
 
 Objects:  {
-	Geometry: 2625355676848, "Geometry::Scene", "Mesh" {
+	Geometry: 2487225604192, "Geometry::Scene", "Mesh" {
 		Vertices: *1068 {
 			a: -652.783060073853,-822.301387786865,255.000042915344,-652.783060073853,-952.300643920898,255.000066757202,-652.783060073853,-952.300643920898,4.57763661643185e-05,-652.783060073853,-822.30110168457,5.34057619461237e-05,-652.78263092041,-222.000861167908,6.86645478253922e-05,-652.78263092041,-222.000908851624,255.000066757202,-652.783060073853,-822.301769256592,499.999809265137,-652.78263092041,-222.001028060913,499.999856948853,-126.962888240814,-952.300643920898,255.000114440918,-126.962828636169,-952.300643920898,0.000106811523892247,-126.962947845459,-747.300720214844,255.00009059906,-126.962947845459,-747.300577163696,0.00011444091114754,378.037405014038,-747.300577163696,0.000175476054664614,378.037524223328,-747.300577163696,255.000138282776,-126.963007450104,-747.300815582275,499.999856948853,378.037524223328,-747.300577163696,499.999904632568,-371.966814994812,-747.30052947998,255.000066757202,-371.966886520386,-747.30052947998,499.999761581421,378.037524223328,-824.300670623779,0.000175476054664614,378.037619590759,-824.300670623779,255.000138282776,378.037524223328,-824.300670623779,499.999904632568,658.03656578064,-824.300670623779,0.000183105464657274,658.036661148071,-824.300670623779,255.000185966492,658.036661148071,-824.300670623779,499.999904632568,378.037524223328,-824.300670623779,744.999742507935,658.03656578064,-824.300670623779,744.999551773071,378.037524223328,-824.300670623779,499.999856948853,388.027882575989,277.499747276306,0.000183105464657274,388.035178184509,-149.501276016235,0.000167846678778005,388.035178184509,-149.501156806946,255.000138282776,388.027882575989,277.499866485596,255.000162124634,388.035178184509,-149.501037597656,500,388.027882575989,277.499866485596,499.999904632568,658.03656578064,952.298355102539,255.000233650208,378.029346466064,952.298355102539,0.000221252435039787,658.036661148071,952.298355102539,0.000236511232287739,378.029346466064,952.298355102539,255.000185966492,658.03656578064,952.298355102539,500,378.029227256775,952.298355102539,500,
 658.036422729492,952.298355102539,744.999742507935,378.029227256775,952.298355102539,499.999904632568,378.029227256775,952.298355102539,744.999742507935,378.029346466064,875.297832489014,0.000213623047784495,378.029346466064,875.297832489014,255.000185966492,378.029346466064,875.297832489014,500,-371.967220306396,875.297832489014,0.000122070309771516,-371.967244148254,875.297737121582,255.00009059906,-371.967315673828,875.297737121582,499.999856948853,-371.967244148254,952.298069000244,0.000129699708395492,-371.967244148254,952.297973632812,255.00009059906,-371.967339515686,952.297973632812,499.999856948853,-651.964282989502,952.298069000244,9.91821252682712e-05,-651.964282989502,952.298069000244,255.000066757202,-651.964282989502,952.298069000244,499.999856948853,-651.964282989502,349.999260902405,7.62939350806846e-05,-651.964282989502,349.999141693115,255.000066757202,-651.964282989502,349.999022483826,499.999856948853,-396.965265274048,349.999260902405,0.000106811523892247,-396.965289115906,349.999260902405,255.000066757202,-396.965289115906,349.999260902405,499.999809265137,-396.965265274048,277.499008178711,9.91821252682712e-05,-396.965289115906,277.499008178711,255.000066757202,-396.965384483337,277.499008178711,499.999809265137,-381.965255737305,277.499008178711,0.000106811523892247,-381.965351104736,277.499008178711,255.000066757202,-381.965351104736,277.499008178711,499.999809265137,-381.965327262878,-149.501037597656,9.15527323286369e-05,-381.965351104736,-149.501097202301,255.000066757202,-381.965351104736,-149.501216411591,499.999809265137,-396.964311599731,-149.501037597656,8.39233393890026e-05,-396.964383125305,-149.501156806946,255.000066757202,-396.964406967163,-149.50133562088,499.999809265137,-396.964311599731,-222.000789642334,8.39233393890026e-05,-396.964311599731,-222.000861167908,255.000066757202,-396.964406967163,-222.000861167908,499.999809265137,-371.967363357544,-822.301864624023,499.999761581421,-371.967244148254,-822.301864624023,255.00009059906,658.03656578064,349.99852180481,0.000213623047784495,
@@ -409,7 +411,7 @@ Objects:  {
 			}
 		}
 	}
-	Model: 2624076566352, "Model::Altair_Dummy_T2", "Null" {
+	Model: 2483999992784, "Model::Altair_Dummy_T2", "Null" {
 		Version: 232
 		Properties70:  {
 			P: "RotationOrder", "enum", "", "",4
@@ -420,20 +422,20 @@ Objects:  {
 		Shading: Y
 		Culling: "CullingOff"
 	}
-	Model: 2624076568352, "Model::CB049_ALTAIR_Dummy_s_Web", "Null" {
+	Model: 2484000010784, "Model::CB049_ALTAIR_Dummy_s_Web", "Null" {
 		Version: 232
 		Properties70:  {
 			P: "RotationOrder", "enum", "", "",4
 			P: "RotationActive", "bool", "", "",1
 			P: "InheritType", "enum", "", "",1
 			P: "ScalingMax", "Vector3D", "Vector", "",0,0,0
-			P: "Lcl Translation", "Lcl Translation", "", "A",-52011.3403320312,386.169648170471,-50153.6651611328
+			P: "Lcl Translation", "Lcl Translation", "", "A",-43082.3974609375,331.506180763245,-45627.8594970703
 			P: "Lcl Rotation", "Lcl Rotation", "", "A",-90,0,151.902481079102
 		}
 		Shading: Y
 		Culling: "CullingOff"
 	}
-	Model: 2624076570352, "Model::CB049_ALTAIR_Dummy_s_Web_1", "Null" {
+	Model: 2483999990784, "Model::CB049_ALTAIR_Dummy_s_Web_1", "Null" {
 		Version: 232
 		Properties70:  {
 			P: "RotationOrder", "enum", "", "",4
@@ -445,7 +447,7 @@ Objects:  {
 		Shading: Y
 		Culling: "CullingOff"
 	}
-	Model: 2624076572352, "Model::CB049_ALTAIR_Dummy_Torre_Web_1", "Mesh" {
+	Model: 2484000000784, "Model::CB049_ALTAIR_Dummy_Torre_Web_1", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationOrder", "enum", "", "",4
@@ -458,7 +460,7 @@ Objects:  {
 		Shading: W
 		Culling: "CullingOff"
 	}
-	Model: 2624076558352, "Model::CB049_ALTAIR_Dummy_Torre_Web__1__1", "Mesh" {
+	Model: 2483999994784, "Model::CB049_ALTAIR_Dummy_Torre_Web__1__1", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationOrder", "enum", "", "",4
@@ -471,7 +473,7 @@ Objects:  {
 		Shading: W
 		Culling: "CullingOff"
 	}
-	Model: 2624076588352, "Model::CB049_ALTAIR_Dummy_Torre_Web__2__1", "Mesh" {
+	Model: 2483999996784, "Model::CB049_ALTAIR_Dummy_Torre_Web__2__1", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationOrder", "enum", "", "",4
@@ -484,7 +486,7 @@ Objects:  {
 		Shading: W
 		Culling: "CullingOff"
 	}
-	Model: 2624076578352, "Model::CB049_ALTAIR_Dummy_Torre_Web__3__1", "Mesh" {
+	Model: 2484000014784, "Model::CB049_ALTAIR_Dummy_Torre_Web__3__1", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationOrder", "enum", "", "",4
@@ -497,7 +499,7 @@ Objects:  {
 		Shading: W
 		Culling: "CullingOff"
 	}
-	Model: 2624076580352, "Model::CB049_ALTAIR_Dummy_Torre_Web", "Mesh" {
+	Model: 2484000016784, "Model::CB049_ALTAIR_Dummy_Torre_Web", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationOrder", "enum", "", "",4
@@ -510,7 +512,7 @@ Objects:  {
 		Shading: W
 		Culling: "CullingOff"
 	}
-	Model: 2624076574352, "Model::CB049_ALTAIR_Dummy_Torre_Web__1_", "Mesh" {
+	Model: 2484000002784, "Model::CB049_ALTAIR_Dummy_Torre_Web__1_", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationOrder", "enum", "", "",4
@@ -523,7 +525,7 @@ Objects:  {
 		Shading: W
 		Culling: "CullingOff"
 	}
-	Model: 2624076582352, "Model::CB049_ALTAIR_Dummy_Torre_Web__2_", "Mesh" {
+	Model: 2484000006784, "Model::CB049_ALTAIR_Dummy_Torre_Web__2_", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationOrder", "enum", "", "",4
@@ -536,7 +538,7 @@ Objects:  {
 		Shading: W
 		Culling: "CullingOff"
 	}
-	Model: 2624076586352, "Model::CB049_ALTAIR_Dummy_Torre_Web__3_", "Mesh" {
+	Model: 2484000018784, "Model::CB049_ALTAIR_Dummy_Torre_Web__3_", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationOrder", "enum", "", "",4
@@ -549,20 +551,20 @@ Objects:  {
 		Shading: W
 		Culling: "CullingOff"
 	}
-	Model: 2624076584352, "Model::CB049_ALTAIR_Dummy_s_Web__1_", "Null" {
+	Model: 2484000012784, "Model::CB049_ALTAIR_Dummy_s_Web__1_", "Null" {
 		Version: 232
 		Properties70:  {
 			P: "RotationOrder", "enum", "", "",4
 			P: "RotationActive", "bool", "", "",1
 			P: "InheritType", "enum", "", "",1
 			P: "ScalingMax", "Vector3D", "Vector", "",0,0,0
-			P: "Lcl Translation", "Lcl Translation", "", "A",-61293.9697265625,406.170463562012,-55123.1506347656
+			P: "Lcl Translation", "Lcl Translation", "", "A",-52365.0268554688,351.507019996643,-50597.3419189453
 			P: "Lcl Rotation", "Lcl Rotation", "", "A",-90,0,151.902481079102
 		}
 		Shading: Y
 		Culling: "CullingOff"
 	}
-	Model: 2624076590352, "Model::CB049_ALTAIR_Dummy_s_Web_2", "Null" {
+	Model: 2484000004784, "Model::CB049_ALTAIR_Dummy_s_Web_2", "Null" {
 		Version: 232
 		Properties70:  {
 			P: "RotationOrder", "enum", "", "",4
@@ -574,7 +576,7 @@ Objects:  {
 		Shading: Y
 		Culling: "CullingOff"
 	}
-	Model: 2624076576352, "Model::CB049_ALTAIR_Dummy_Torre_Web_3", "Mesh" {
+	Model: 2484000008784, "Model::CB049_ALTAIR_Dummy_Torre_Web_3", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationOrder", "enum", "", "",4
@@ -587,7 +589,7 @@ Objects:  {
 		Shading: W
 		Culling: "CullingOff"
 	}
-	Model: 2624076594352, "Model::CB049_ALTAIR_Dummy_Torre_Web__1__3", "Mesh" {
+	Model: 2484001425296, "Model::CB049_ALTAIR_Dummy_Torre_Web__1__3", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationOrder", "enum", "", "",4
@@ -600,7 +602,7 @@ Objects:  {
 		Shading: W
 		Culling: "CullingOff"
 	}
-	Model: 2624076592352, "Model::CB049_ALTAIR_Dummy_Torre_Web__2__2", "Mesh" {
+	Model: 2484001421296, "Model::CB049_ALTAIR_Dummy_Torre_Web__2__2", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationOrder", "enum", "", "",4
@@ -613,7 +615,7 @@ Objects:  {
 		Shading: W
 		Culling: "CullingOff"
 	}
-	Model: 2624076596352, "Model::CB049_ALTAIR_Dummy_Torre_Web__3__2", "Mesh" {
+	Model: 2484001427296, "Model::CB049_ALTAIR_Dummy_Torre_Web__3__2", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationOrder", "enum", "", "",4
@@ -626,7 +628,7 @@ Objects:  {
 		Shading: W
 		Culling: "CullingOff"
 	}
-	Model: 2624063229984, "Model::CB049_ALTAIR_Dummy_Torre_Web_2", "Mesh" {
+	Model: 2484001423296, "Model::CB049_ALTAIR_Dummy_Torre_Web_2", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationOrder", "enum", "", "",4
@@ -639,7 +641,7 @@ Objects:  {
 		Shading: W
 		Culling: "CullingOff"
 	}
-	Model: 2624063231984, "Model::CB049_ALTAIR_Dummy_Torre_Web__1__2", "Mesh" {
+	Model: 2484001409296, "Model::CB049_ALTAIR_Dummy_Torre_Web__1__2", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationOrder", "enum", "", "",4
@@ -652,17 +654,94 @@ Objects:  {
 		Shading: W
 		Culling: "CullingOff"
 	}
-	Material: 2626025411184, "Material::Glass_Transparent_Volumenes_Futuros_Desarrollos_01_04", "" {
+	Model: 2484001429296, "Model::CB049_ALTAIR_Dummy_s_Web__1___1_", "Null" {
+		Version: 232
+		Properties70:  {
+			P: "RotationOrder", "enum", "", "",4
+			P: "RotationActive", "bool", "", "",1
+			P: "InheritType", "enum", "", "",1
+			P: "ScalingMax", "Vector3D", "Vector", "",0,0,0
+			P: "Lcl Translation", "Lcl Translation", "", "A",-59304.4311523438,351.507186889648,-54295.5871582031
+			P: "Lcl Rotation", "Lcl Rotation", "", "A",-90,0,151.902481079102
+		}
+		Shading: Y
+		Culling: "CullingOff"
+	}
+	Model: 2484001411296, "Model::CB049_ALTAIR_Dummy_s_Web_2_1", "Null" {
+		Version: 232
+		Properties70:  {
+			P: "RotationOrder", "enum", "", "",4
+			P: "RotationActive", "bool", "", "",1
+			P: "InheritType", "enum", "", "",1
+			P: "ScalingMax", "Vector3D", "Vector", "",0,0,0
+			P: "Lcl Translation", "Lcl Translation", "", "A",-5253.35159301758,-5.88302612304688,0
+		}
+		Shading: Y
+		Culling: "CullingOff"
+	}
+	Model: 2484001431296, "Model::CB049_ALTAIR_Dummy_Torre_Web_3_1", "Mesh" {
+		Version: 232
+		Properties70:  {
+			P: "RotationOrder", "enum", "", "",4
+			P: "RotationActive", "bool", "", "",1
+			P: "InheritType", "enum", "", "",1
+			P: "ScalingMax", "Vector3D", "Vector", "",0,0,0
+			P: "DefaultAttributeIndex", "int", "Integer", "",0
+			P: "Lcl Translation", "Lcl Translation", "", "A",-6458.8996887207,2469.59953308105,-0.000332299987348961
+		}
+		Shading: W
+		Culling: "CullingOff"
+	}
+	Model: 2484001401296, "Model::CB049_ALTAIR_Dummy_Torre_Web__1__3_1", "Mesh" {
+		Version: 232
+		Properties70:  {
+			P: "RotationOrder", "enum", "", "",4
+			P: "RotationActive", "bool", "", "",1
+			P: "InheritType", "enum", "", "",1
+			P: "ScalingMax", "Vector3D", "Vector", "",0,0,0
+			P: "DefaultAttributeIndex", "int", "Integer", "",0
+			P: "Lcl Translation", "Lcl Translation", "", "A",-5158.8996887207,2469.59953308105,-0.000336769994646602
+		}
+		Shading: W
+		Culling: "CullingOff"
+	}
+	Model: 2484001413296, "Model::CB049_ALTAIR_Dummy_Torre_Web__2__2_1", "Mesh" {
+		Version: 232
+		Properties70:  {
+			P: "RotationOrder", "enum", "", "",4
+			P: "RotationActive", "bool", "", "",1
+			P: "InheritType", "enum", "", "",1
+			P: "ScalingMax", "Vector3D", "Vector", "",0,0,0
+			P: "DefaultAttributeIndex", "int", "Integer", "",0
+			P: "Lcl Translation", "Lcl Translation", "", "A",-3818.89991760254,2469.59953308105,-0.000333689990839048
+		}
+		Shading: W
+		Culling: "CullingOff"
+	}
+	Model: 2484001403296, "Model::CB049_ALTAIR_Dummy_Torre_Web__3__2_1", "Mesh" {
+		Version: 232
+		Properties70:  {
+			P: "RotationOrder", "enum", "", "",4
+			P: "RotationActive", "bool", "", "",1
+			P: "InheritType", "enum", "", "",1
+			P: "ScalingMax", "Vector3D", "Vector", "",0,0,0
+			P: "DefaultAttributeIndex", "int", "Integer", "",0
+			P: "Lcl Translation", "Lcl Translation", "", "A",-2519.69985961914,2469.59953308105,-0.000382210009775008
+		}
+		Shading: W
+		Culling: "CullingOff"
+	}
+	Material: 2487215134864, "Material::Glass_Transparent_Volumenes_Futuros_Desarrollos_01_04", "" {
 		Version: 102
 		ShadingModel: "lambert"
 		MultiLayer: 0
 		Properties70:  {
 			P: "AmbientColor", "Color", "", "A",0,0,0
-			P: "DiffuseColor", "Color", "", "A",0.624000012874603,0.624000012874603,0.624000012874603
+			P: "DiffuseColor", "Color", "", "A",0.666000008583069,0.666000008583069,0.666000008583069
 			P: "BumpFactor", "double", "Number", "",0
 			P: "Emissive", "Vector3D", "Vector", "",0,0,0
 			P: "Ambient", "Vector3D", "Vector", "",0,0,0
-			P: "Diffuse", "Vector3D", "Vector", "",0.624000012874603,0.624000012874603,0.624000012874603
+			P: "Diffuse", "Vector3D", "Vector", "",0.666000008583069,0.666000008583069,0.666000008583069
 			P: "Opacity", "double", "Number", "",1
 		}
 	}
@@ -674,145 +753,187 @@ Objects:  {
 Connections:  {
 	
 	;Model::Altair_Dummy_T2, Model::RootNode
-	C: "OO",2624076566352,0
+	C: "OO",2483999992784,0
 	
 	;Model::CB049_ALTAIR_Dummy_s_Web, Model::Altair_Dummy_T2
-	C: "OO",2624076568352,2624076566352
+	C: "OO",2484000010784,2483999992784
 	
 	;Model::CB049_ALTAIR_Dummy_s_Web__1_, Model::Altair_Dummy_T2
-	C: "OO",2624076584352,2624076566352
+	C: "OO",2484000012784,2483999992784
+	
+	;Model::CB049_ALTAIR_Dummy_s_Web__1___1_, Model::Altair_Dummy_T2
+	C: "OO",2484001429296,2483999992784
 	
 	;Model::CB049_ALTAIR_Dummy_s_Web_1, Model::CB049_ALTAIR_Dummy_s_Web
-	C: "OO",2624076570352,2624076568352
+	C: "OO",2483999990784,2484000010784
 	
 	;Model::CB049_ALTAIR_Dummy_Torre_Web, Model::CB049_ALTAIR_Dummy_s_Web
-	C: "OO",2624076580352,2624076568352
+	C: "OO",2484000016784,2484000010784
 	
 	;Model::CB049_ALTAIR_Dummy_Torre_Web__1_, Model::CB049_ALTAIR_Dummy_s_Web
-	C: "OO",2624076574352,2624076568352
+	C: "OO",2484000002784,2484000010784
 	
 	;Model::CB049_ALTAIR_Dummy_Torre_Web__2_, Model::CB049_ALTAIR_Dummy_s_Web
-	C: "OO",2624076582352,2624076568352
+	C: "OO",2484000006784,2484000010784
 	
 	;Model::CB049_ALTAIR_Dummy_Torre_Web__3_, Model::CB049_ALTAIR_Dummy_s_Web
-	C: "OO",2624076586352,2624076568352
+	C: "OO",2484000018784,2484000010784
 	
 	;Model::CB049_ALTAIR_Dummy_Torre_Web_1, Model::CB049_ALTAIR_Dummy_s_Web_1
-	C: "OO",2624076572352,2624076570352
+	C: "OO",2484000000784,2483999990784
 	
 	;Model::CB049_ALTAIR_Dummy_Torre_Web__1__1, Model::CB049_ALTAIR_Dummy_s_Web_1
-	C: "OO",2624076558352,2624076570352
+	C: "OO",2483999994784,2483999990784
 	
 	;Model::CB049_ALTAIR_Dummy_Torre_Web__2__1, Model::CB049_ALTAIR_Dummy_s_Web_1
-	C: "OO",2624076588352,2624076570352
+	C: "OO",2483999996784,2483999990784
 	
 	;Model::CB049_ALTAIR_Dummy_Torre_Web__3__1, Model::CB049_ALTAIR_Dummy_s_Web_1
-	C: "OO",2624076578352,2624076570352
+	C: "OO",2484000014784,2483999990784
 	
 	;Material::Glass_Transparent_Volumenes_Futuros_Desarrollos_01_04, Model::CB049_ALTAIR_Dummy_Torre_Web_1
-	C: "OO",2626025411184,2624076572352
+	C: "OO",2487215134864,2484000000784
 	
 	;Geometry::Scene, Model::CB049_ALTAIR_Dummy_Torre_Web_1
-	C: "OO",2625355676848,2624076572352
+	C: "OO",2487225604192,2484000000784
 	
 	;Material::Glass_Transparent_Volumenes_Futuros_Desarrollos_01_04, Model::CB049_ALTAIR_Dummy_Torre_Web__1__1
-	C: "OO",2626025411184,2624076558352
+	C: "OO",2487215134864,2483999994784
 	
 	;Geometry::Scene, Model::CB049_ALTAIR_Dummy_Torre_Web__1__1
-	C: "OO",2625355676848,2624076558352
+	C: "OO",2487225604192,2483999994784
 	
 	;Material::Glass_Transparent_Volumenes_Futuros_Desarrollos_01_04, Model::CB049_ALTAIR_Dummy_Torre_Web__2__1
-	C: "OO",2626025411184,2624076588352
+	C: "OO",2487215134864,2483999996784
 	
 	;Geometry::Scene, Model::CB049_ALTAIR_Dummy_Torre_Web__2__1
-	C: "OO",2625355676848,2624076588352
+	C: "OO",2487225604192,2483999996784
 	
 	;Material::Glass_Transparent_Volumenes_Futuros_Desarrollos_01_04, Model::CB049_ALTAIR_Dummy_Torre_Web__3__1
-	C: "OO",2626025411184,2624076578352
+	C: "OO",2487215134864,2484000014784
 	
 	;Geometry::Scene, Model::CB049_ALTAIR_Dummy_Torre_Web__3__1
-	C: "OO",2625355676848,2624076578352
+	C: "OO",2487225604192,2484000014784
 	
 	;Material::Glass_Transparent_Volumenes_Futuros_Desarrollos_01_04, Model::CB049_ALTAIR_Dummy_Torre_Web
-	C: "OO",2626025411184,2624076580352
+	C: "OO",2487215134864,2484000016784
 	
 	;Geometry::Scene, Model::CB049_ALTAIR_Dummy_Torre_Web
-	C: "OO",2625355676848,2624076580352
+	C: "OO",2487225604192,2484000016784
 	
 	;Material::Glass_Transparent_Volumenes_Futuros_Desarrollos_01_04, Model::CB049_ALTAIR_Dummy_Torre_Web__1_
-	C: "OO",2626025411184,2624076574352
+	C: "OO",2487215134864,2484000002784
 	
 	;Geometry::Scene, Model::CB049_ALTAIR_Dummy_Torre_Web__1_
-	C: "OO",2625355676848,2624076574352
+	C: "OO",2487225604192,2484000002784
 	
 	;Material::Glass_Transparent_Volumenes_Futuros_Desarrollos_01_04, Model::CB049_ALTAIR_Dummy_Torre_Web__2_
-	C: "OO",2626025411184,2624076582352
+	C: "OO",2487215134864,2484000006784
 	
 	;Geometry::Scene, Model::CB049_ALTAIR_Dummy_Torre_Web__2_
-	C: "OO",2625355676848,2624076582352
+	C: "OO",2487225604192,2484000006784
 	
 	;Material::Glass_Transparent_Volumenes_Futuros_Desarrollos_01_04, Model::CB049_ALTAIR_Dummy_Torre_Web__3_
-	C: "OO",2626025411184,2624076586352
+	C: "OO",2487215134864,2484000018784
 	
 	;Geometry::Scene, Model::CB049_ALTAIR_Dummy_Torre_Web__3_
-	C: "OO",2625355676848,2624076586352
+	C: "OO",2487225604192,2484000018784
 	
 	;Model::CB049_ALTAIR_Dummy_s_Web_2, Model::CB049_ALTAIR_Dummy_s_Web__1_
-	C: "OO",2624076590352,2624076584352
+	C: "OO",2484000004784,2484000012784
 	
 	;Model::CB049_ALTAIR_Dummy_Torre_Web_2, Model::CB049_ALTAIR_Dummy_s_Web__1_
-	C: "OO",2624063229984,2624076584352
+	C: "OO",2484001423296,2484000012784
 	
 	;Model::CB049_ALTAIR_Dummy_Torre_Web__1__2, Model::CB049_ALTAIR_Dummy_s_Web__1_
-	C: "OO",2624063231984,2624076584352
+	C: "OO",2484001409296,2484000012784
 	
 	;Model::CB049_ALTAIR_Dummy_Torre_Web_3, Model::CB049_ALTAIR_Dummy_s_Web_2
-	C: "OO",2624076576352,2624076590352
+	C: "OO",2484000008784,2484000004784
 	
 	;Model::CB049_ALTAIR_Dummy_Torre_Web__1__3, Model::CB049_ALTAIR_Dummy_s_Web_2
-	C: "OO",2624076594352,2624076590352
+	C: "OO",2484001425296,2484000004784
 	
 	;Model::CB049_ALTAIR_Dummy_Torre_Web__2__2, Model::CB049_ALTAIR_Dummy_s_Web_2
-	C: "OO",2624076592352,2624076590352
+	C: "OO",2484001421296,2484000004784
 	
 	;Model::CB049_ALTAIR_Dummy_Torre_Web__3__2, Model::CB049_ALTAIR_Dummy_s_Web_2
-	C: "OO",2624076596352,2624076590352
+	C: "OO",2484001427296,2484000004784
 	
 	;Material::Glass_Transparent_Volumenes_Futuros_Desarrollos_01_04, Model::CB049_ALTAIR_Dummy_Torre_Web_3
-	C: "OO",2626025411184,2624076576352
+	C: "OO",2487215134864,2484000008784
 	
 	;Geometry::Scene, Model::CB049_ALTAIR_Dummy_Torre_Web_3
-	C: "OO",2625355676848,2624076576352
+	C: "OO",2487225604192,2484000008784
 	
 	;Material::Glass_Transparent_Volumenes_Futuros_Desarrollos_01_04, Model::CB049_ALTAIR_Dummy_Torre_Web__1__3
-	C: "OO",2626025411184,2624076594352
+	C: "OO",2487215134864,2484001425296
 	
 	;Geometry::Scene, Model::CB049_ALTAIR_Dummy_Torre_Web__1__3
-	C: "OO",2625355676848,2624076594352
+	C: "OO",2487225604192,2484001425296
 	
 	;Material::Glass_Transparent_Volumenes_Futuros_Desarrollos_01_04, Model::CB049_ALTAIR_Dummy_Torre_Web__2__2
-	C: "OO",2626025411184,2624076592352
+	C: "OO",2487215134864,2484001421296
 	
 	;Geometry::Scene, Model::CB049_ALTAIR_Dummy_Torre_Web__2__2
-	C: "OO",2625355676848,2624076592352
+	C: "OO",2487225604192,2484001421296
 	
 	;Material::Glass_Transparent_Volumenes_Futuros_Desarrollos_01_04, Model::CB049_ALTAIR_Dummy_Torre_Web__3__2
-	C: "OO",2626025411184,2624076596352
+	C: "OO",2487215134864,2484001427296
 	
 	;Geometry::Scene, Model::CB049_ALTAIR_Dummy_Torre_Web__3__2
-	C: "OO",2625355676848,2624076596352
+	C: "OO",2487225604192,2484001427296
 	
 	;Material::Glass_Transparent_Volumenes_Futuros_Desarrollos_01_04, Model::CB049_ALTAIR_Dummy_Torre_Web_2
-	C: "OO",2626025411184,2624063229984
+	C: "OO",2487215134864,2484001423296
 	
 	;Geometry::Scene, Model::CB049_ALTAIR_Dummy_Torre_Web_2
-	C: "OO",2625355676848,2624063229984
+	C: "OO",2487225604192,2484001423296
 	
 	;Material::Glass_Transparent_Volumenes_Futuros_Desarrollos_01_04, Model::CB049_ALTAIR_Dummy_Torre_Web__1__2
-	C: "OO",2626025411184,2624063231984
+	C: "OO",2487215134864,2484001409296
 	
 	;Geometry::Scene, Model::CB049_ALTAIR_Dummy_Torre_Web__1__2
-	C: "OO",2625355676848,2624063231984
+	C: "OO",2487225604192,2484001409296
+	
+	;Model::CB049_ALTAIR_Dummy_s_Web_2_1, Model::CB049_ALTAIR_Dummy_s_Web__1___1_
+	C: "OO",2484001411296,2484001429296
+	
+	;Model::CB049_ALTAIR_Dummy_Torre_Web_3_1, Model::CB049_ALTAIR_Dummy_s_Web_2_1
+	C: "OO",2484001431296,2484001411296
+	
+	;Model::CB049_ALTAIR_Dummy_Torre_Web__1__3_1, Model::CB049_ALTAIR_Dummy_s_Web_2_1
+	C: "OO",2484001401296,2484001411296
+	
+	;Model::CB049_ALTAIR_Dummy_Torre_Web__2__2_1, Model::CB049_ALTAIR_Dummy_s_Web_2_1
+	C: "OO",2484001413296,2484001411296
+	
+	;Model::CB049_ALTAIR_Dummy_Torre_Web__3__2_1, Model::CB049_ALTAIR_Dummy_s_Web_2_1
+	C: "OO",2484001403296,2484001411296
+	
+	;Material::Glass_Transparent_Volumenes_Futuros_Desarrollos_01_04, Model::CB049_ALTAIR_Dummy_Torre_Web_3_1
+	C: "OO",2487215134864,2484001431296
+	
+	;Geometry::Scene, Model::CB049_ALTAIR_Dummy_Torre_Web_3_1
+	C: "OO",2487225604192,2484001431296
+	
+	;Material::Glass_Transparent_Volumenes_Futuros_Desarrollos_01_04, Model::CB049_ALTAIR_Dummy_Torre_Web__1__3_1
+	C: "OO",2487215134864,2484001401296
+	
+	;Geometry::Scene, Model::CB049_ALTAIR_Dummy_Torre_Web__1__3_1
+	C: "OO",2487225604192,2484001401296
+	
+	;Material::Glass_Transparent_Volumenes_Futuros_Desarrollos_01_04, Model::CB049_ALTAIR_Dummy_Torre_Web__2__2_1
+	C: "OO",2487215134864,2484001413296
+	
+	;Geometry::Scene, Model::CB049_ALTAIR_Dummy_Torre_Web__2__2_1
+	C: "OO",2487225604192,2484001413296
+	
+	;Material::Glass_Transparent_Volumenes_Futuros_Desarrollos_01_04, Model::CB049_ALTAIR_Dummy_Torre_Web__3__2_1
+	C: "OO",2487215134864,2484001403296
+	
+	;Geometry::Scene, Model::CB049_ALTAIR_Dummy_Torre_Web__3__2_1
+	C: "OO",2487225604192,2484001403296
 }
 ;Takes section
 ;----------------------------------------------------
